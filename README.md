@@ -1,5 +1,7 @@
 # Adstacks Dashboard
 
+![Dashboard Preview](assets/images/dashboard.png)
+
 Production-quality Flutter office dashboard for **Adstacks Media**, built for mobile, tablet, and web.
 
 ## Features
